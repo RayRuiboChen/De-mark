@@ -4,11 +4,11 @@ Ruibo Chen*, Yihan Wu*, Junfeng Guo, Heng Huang
 ## Introduction \[[Paper](https://arxiv.org/pdf/2410.13808)\]
 
 <p align="center">
-<img src=images/demark_intro.png  width="95%" height="95%">
+<img src=images/demark_intro.png  width="95%">
 </p>
 
 <p align="center">
-<img src=images/demark_methods.png  width="95%" height="95%">
+<img src=images/demark_methods.png  width="95%">
 </p>
 
 
@@ -17,7 +17,7 @@ We propose **De-mark**, a framework designed for the removal of n-gram-based wat
 Our proposed method can work for both watermark removal and watermark exploitation.
 
 <p align="center">
-<img src=images/demark_results.png  width="95%" height="95%">
+<img src=images/demark_results.png  width="95%">
 </p>
 
 
